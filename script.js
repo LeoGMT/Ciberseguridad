@@ -5,8 +5,8 @@ function verificarHtml() {
 
     // Verifica si hay alguna etiqueta en el contenido
     if (doc.body.children.length > 0) {
-        alert("NEEEEEEEEEEL PERRO tu no pasas");
+        alert("Codigo malo");
     } else {
-        alert("Texto fino de traje elegante apto para pasar");
+        alert("Texto buenor");
     }
 }
